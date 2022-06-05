@@ -1,0 +1,2 @@
+# precommit-template
+gitのprecommit時に何かしら挟みたいときのテンプレートプロジェクト
